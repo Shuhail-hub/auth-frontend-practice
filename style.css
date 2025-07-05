@@ -1,11 +1,12 @@
 body {
   font-family: sans-serif;
   text-align: center;
-  background-color: #f0f0f0;
+  background-color: #6b79f1;
 }
 
 .container {
-  margin-top: 100px;
+  margin-top: 200px;
+  padding: 100px 200px;
 }
 
 .buttons a {
@@ -13,6 +14,6 @@ body {
   margin: 10px;
   text-decoration: none;
   color: white;
-  background-color: #007BFF;
+  background-color: #ff0000;
   border-radius: 5px;
 }
