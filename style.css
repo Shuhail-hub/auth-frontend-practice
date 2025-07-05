@@ -10,10 +10,10 @@ body {
 }
 
 .buttons a {
-  padding: 10px 20px;
+  padding: 10px 50px;
   margin: 10px;
   text-decoration: none;
-  color: white;
+  color: rgb(141, 35, 35);
   background-color: #ff0000;
-  border-radius: 5px;
+  border-radius: 20px;
 }
