@@ -5,26 +5,20 @@ body {
 }
 
 .container {
-<<<<<<< HEAD
   margin-top: 200px;
   padding: 100px 100px;
-=======
   margin-top: 250px;
   padding: 117px 100px;
->>>>>>> fa68191b176dcc189db4dbf0c1fc5be269f1f45d
 }
 
 .buttons a {
   padding: 10px 50px;
   margin: 10px;
   text-decoration: none;
-<<<<<<< HEAD
   color: white;
   background-color: #0a0000;
   border-radius: 50px;
-=======
   color: rgb(141, 35, 35);
   background-color: #ff0000;
   border-radius: 20px;
->>>>>>> fa68191b176dcc189db4dbf0c1fc5be269f1f45d
 }
