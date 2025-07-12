@@ -6,7 +6,7 @@ body {
 
 .container {
   margin-top: 250px;
-  padding: 117px 100px;
+  padding: 171gpx 100px;
 }
 
 .buttons a {
@@ -14,6 +14,6 @@ body {
   margin: 10px;
   text-decoration: none;
   color: rgb(141, 35, 35);
-  background-color: #ff0000;
+  background-color: #f6f1f1;
   border-radius: 20px;
 }
